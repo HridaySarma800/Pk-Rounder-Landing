@@ -57,6 +57,7 @@ const ContentBlock = ({
                         item: {
                           color?: string;
                           title: string;
+
                         },
                         id: number
                       ) => {

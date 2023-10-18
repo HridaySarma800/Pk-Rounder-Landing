@@ -17,7 +17,7 @@ This React template comes with multi-lingual support, smooth animations, set of 
 - [Features](#features)
 - [Google Lighthouse](#google-lighthouse)
   - [Performance](#performance)
-  - [Accessibility](#accessibility)
+  - [Accessibility](#accessibility)npm 
   - [Best Practices](#best-practices)
   - [SEO](#seo)
 - [Demo](#demo)
